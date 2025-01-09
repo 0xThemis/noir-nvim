@@ -22,6 +22,8 @@ syn keyword nrKeywords if else use for in where quote
 syn keyword nrKeywords let mod type unconstrained unsafe
 syn keyword nrKeywords return fn global open break continue
 syn keyword nrKeywords impl trait pub as struct comptime
+syn keyword nrKeywords impl trait pub as struct comptime
+syn keyword nrKeywords contract
 
 syn keyword nrModifiers mut
 
